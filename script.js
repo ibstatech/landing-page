@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Full Stack Developer", "Creative Writer", "Poet", "Digital Marketer", "Breakdancer", "Freelancer", "Computer Scientist", "Business Developer", "Nerd"],
+        strings: ["Full Stack Developer", "Creative Writer", "Poet", "Digital Marketer", "Breakdancer", "Freelancer", "Computer Scientist", "Business Developer", "Nerd", "Gamer"],
         typeSpeed: 40,
         backSpeed: 40,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Suharvardi-Malamati Sufi", "Bokononist", "Satanist", "Wizard", "Illuminat3d", "Muslim"],
+        strings: ["Suharvardi-Malamati Sufi", "Bokononist", "Satanist", "Wizard", "Muslim"],
         typeSpeed: 50,
         backSpeed: 50,
         loop: true
