@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Suharvardi-Malamati Sufi", "Bokononist", "Satanist", "Wizard", "Muslim"],
+        strings: ["Suharvardi-Malamati Sufi", "Bokononist", "Wizard", "Muslim"],
         typeSpeed: 50,
         backSpeed: 50,
         loop: true
